@@ -1,3 +1,3 @@
-module github.com/rahadiangg/huawei-go-runtime
+module github.com/rahadiangg/huaweicloud-go-runtime
 
 go 1.14
