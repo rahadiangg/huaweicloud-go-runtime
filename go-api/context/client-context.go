@@ -1,7 +1,7 @@
 package context
 
 import (
-	"huaweicloud.com/go-runtime/pkg/runtime/common"
+	"github.com/rahadiangg/huaweicloud-go-runtime/pkg/runtime/common"
 )
 
 type RuntimeContext interface {

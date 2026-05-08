@@ -5,7 +5,7 @@ import (
     "sync"
     "time"
 
-    "huaweicloud.com/go-runtime/pkg/runtime/common"
+    "github.com/rahadiangg/huaweicloud-go-runtime/pkg/runtime/common"
 )
 
 var (

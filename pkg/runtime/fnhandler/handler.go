@@ -8,7 +8,7 @@ import (
     "runtime"
     "strings"
 
-    "huaweicloud.com/go-runtime/go-api/context"
+    "github.com/rahadiangg/huaweicloud-go-runtime/go-api/context"
 )
 
 var (
